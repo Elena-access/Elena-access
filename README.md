@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Elena-access
+- 👋 Hi, I’m @Elena-accss
 - 👀 I’m interested in IT-recruiter: - Разработчики - H2H - Тестировщик - Мобильные разработчики (IOS, Android) 
 - 🌱 I’m currently learning GeekBrains
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I cooperate with the Access company
 - 📫 How to reach me ea@accss.ru
 
 <!---
